@@ -1,3 +1,8 @@
+def call() {
+    area(2, 2)
+    vol(2, 2, 2)
+}
+
 def area(l,b) {
   echo "area is ${l*b}"
 }
