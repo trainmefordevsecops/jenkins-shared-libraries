@@ -7,7 +7,3 @@ def call(String jobname) {
     }
 
 } 
-
-def inputno(int x) {
-    echo "input no. is ${x}"
-}
