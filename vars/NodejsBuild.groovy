@@ -7,3 +7,7 @@ def call(String jobname) {
     }
 
 } 
+
+def inputno( x) {
+    echo "input no. is ${x}"
+}
