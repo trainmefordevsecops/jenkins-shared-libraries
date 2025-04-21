@@ -8,6 +8,6 @@ def call(String jobname) {
 
 } 
 
-def inputno( x) {
+def inputno(int x) {
     echo "input no. is ${x}"
 }
